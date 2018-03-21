@@ -1,2 +1,2 @@
-# bol.com
-MyParcel manual for the Bol.com extension
+# Bol.com
+Voor de handleiding ga naar https://myparcelnl.github.io/bol.com
