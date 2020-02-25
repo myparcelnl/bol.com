@@ -200,6 +200,15 @@ h1 {
     display: none;
     margin-left: 30px;
 }
+<<<<<<< HEAD
+=======
+.main-content h3 {
+    margin-top: 2rem;
+    margin-bottom: 1px;
+    font-weight: normal;
+    color: #0F5C47;
+}
+>>>>>>> 580c037a1f80f2ece63ed121ec7056c5b9f5ba5b
 
 .active > .h2item, .h2item > .active, .active > .h2item > .h3item, .active > .h3item    {
     display: block;
@@ -222,7 +231,7 @@ h1 {
     max-width: 100%;
 }
 
-.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+.main-content h1, .main-content h2, .main-content h4, .main-content h5, .main-content h6 {
     margin-top: 2rem;
     margin-bottom: 1rem;
     font-weight: normal;
@@ -399,4 +408,13 @@ h1 {
 @media screen and (max-width: 42em) {
     .site-footer {
     }
+<<<<<<< HEAD
+=======
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+>>>>>>> 580c037a1f80f2ece63ed121ec7056c5b9f5ba5b
 }
